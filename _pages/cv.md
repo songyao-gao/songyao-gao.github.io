@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D in Macroeconomic, Central University of Finance and Economics, 2024 (expected)
 * M.S. in Econometrics, Shanghai Normal University, 2020
-* B.Sc. in Statistics, Beijing University of Posts & Telecomunications, 2016
+* B.Sc. in Statistics, Lanzhou University of Finance and Economics, 2016
 
 
 
