@@ -12,12 +12,14 @@ I am a fouth year Ph.D. candidate in macroeconomics at CEMA in CUFE. I am fortun
 
 ## Research Interests:
 ### DSGE:
-
-FA
+The financial accelerator model
+Monetary Theory and Policy
 
 ### Networks:
+Networks and the Macroeconomy
 
 ### Econometrics:
+Spatial econometrics
 
 
 
