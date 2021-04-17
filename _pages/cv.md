@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+
+Education
+======
+* Ph.D in Macroeconomic, Central University of Finance and Economics, 2024 (expected)
+* M.S. in Econometrics, Shanghai Normal University, 2020
+* B.Sc. in Statistics, Beijing University of Posts & Telecomunications, 2016
+
+
+
+
+
+<!--- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +69,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
