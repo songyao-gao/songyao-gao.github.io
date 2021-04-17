@@ -21,6 +21,7 @@ Networks and the Macroeconomy
 ### Econometrics:
 Spatial econometrics
 
+### Income inequality
 
 
 ## Contact:
