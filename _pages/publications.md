@@ -34,6 +34,6 @@ author_profile: true
   
   <h1>三、英文工作论文</h1>  
   <ol>
-<li> Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries,合作者：崔百胜.  </li>
+<li> Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries, with Baisheng Cui.  </li>
 </ol>
   
