@@ -35,5 +35,6 @@ author_profile: true
   <h1>三、英文工作论文</h1>  
   <ol>
 <li> Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries, with Baisheng Cui.  </li>
+<li> Analysis of the Coupling Harmonious and Spatio-temporal Dynamic Effects of Digital Economy and Ecological Environment, with Baisheng Cui and Jiaqi Li.  </li> 
 </ol>
   
