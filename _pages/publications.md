@@ -18,7 +18,7 @@ author_profile: true
 --->
 <ol>
 <h1>一、中文发表</h1>  
-  <li> <b>高崧耀（通讯作者）</b>、梅冬州、马振宇：《减税降费与宏观政策搭配》，<b>《经济科学》</b>，2022 即将出版。  </li>
+  <li> <b>高崧耀（通讯作者）</b>、梅冬州、马振宇：《减税降费与宏观政策搭配》，<b>《经济科学》</b>，已录用，即将出版。  </li>
   <li> <b>高崧耀</b>、崔百胜（通讯作者）：<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GJJR202207002&v=Mjg5MDFyQ1VSN2lmYitSdUZDbmtVcnpNSWlmQmZMRzRITlBNcUk5RlpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=">《零利率下限约束下中国混合型货币政策规则宏观调控效应》</a> ，<b>《国际金融研究》</b>，2022年第7期。 <a href="https://mp.weixin.qq.com/s/IYz7zNg8FeYC7e7xCt8jag">[微信推文] </a>，该文被中国人民大学《国际货币评论》2022年第9期转发。</li>
   <li> 梅冬州（通讯作者）、杨龙见、<b>高崧耀</b>：<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=GGYY202205002&v=MTQwNDlOUE1xbzlGWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3aWZiK1J1RkNua1ViM01JaXJTZDdHNEg=">《融资约束、企业异质性与增值税减税的政策效果》</a> ，<b>《中国工业经济》</b>，2022年第5期。 <a href="https://mp.weixin.qq.com/s/M8q00DZg_CMS-5cX02l0XQ">[微信推文] </a>  </li>
     <li> 崔百胜、<b>高崧耀</b>：<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=ZWGD202003163&v=MTEwNDZHNEhOSE1ySTVEWjRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3aWZiK1J1RkNua1ZydkJQenJNYXI=">《中国货币政策信贷传导的非对称与时变效应研究——基于PCHVAR模型》</a> ，<b>《管理评论》</b>，2020年第3期。  </li>
