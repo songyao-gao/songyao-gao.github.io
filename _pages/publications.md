@@ -32,9 +32,9 @@ author_profile: true
 <li> 雷文妮、高崧耀：《收入不平等是否会导致政府收入下降？》，送审中；  </li>
   </ol>
   
-  <h1>三、英文工作论文</h1>  
+  <h1>三、英文发表（工作）论文</h1>  
   <ol>
-<li> Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries, with Baisheng Cui.  </li>
+<li> Baisheng Cui, <b>Songyao Gao*</b>(2023+,Accept),Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries, The Singapore Economic Review.  </li>
 <li> Analysis of the Coupling Harmonious and Spatio-temporal Dynamic Effects of Digital Economy and Ecological Environment, with Baisheng Cui and Jiaqi Li.  </li> 
 </ol>
   
