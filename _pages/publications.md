@@ -29,12 +29,13 @@ author_profile: true
   <h1>二、中文工作论文</h1>  
   <ol>
 <li> 高崧耀、梅冬州、马振宇：《金融摩擦、房地产市场下行与逆周期调节》，送审中；  </li>
+<li> 马振宇、高崧耀：《利率冲击还是风险冲击:谁驱动了一国宏观经济波动》，送审中；  </li>
 <li> 雷文妮、高崧耀：《收入不平等是否会导致政府收入下降？》，送审中；  </li>
   </ol>
   
   <h1>三、英文发表（工作）论文</h1>  
   <ol>
-<li> Baisheng Cui, <b>Songyao Gao*</b>(2023+,Accept),Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries, The Singapore Economic Review.  </li>
+<li> <b>Songyao Gao</b>, Baisheng Cui*(2023+,Accept),Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of Monetary Policy in G20 Countries, The Singapore Economic Review.  </li>
 <li> Analysis of the Coupling Harmonious and Spatio-temporal Dynamic Effects of Digital Economy and Ecological Environment, with Baisheng Cui and Jiaqi Li.  </li> 
 </ol>
   
