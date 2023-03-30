@@ -21,8 +21,8 @@ main:
    - title: "Interest" 
      url: /interest/
      
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Guide"
+    url: /markdown/
 
 #  - title: "Grant"
  #   url: /grant/
