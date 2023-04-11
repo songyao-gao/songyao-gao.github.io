@@ -6,23 +6,23 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-     url: /year-archive/
+#  - title: "Blog Posts"
+#     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-   - title: "Interest" 
-     url: /interest/
+#   - title: "Interest" 
+#     url: /interest/
      
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+ #   url: /markdown/
 
-  - title: "Grant"
-    url: /grant/
+#  - title: "Grant"
+#    url: /grant/
