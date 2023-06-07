@@ -35,5 +35,7 @@ author_profile: true
   <li> 高崧耀：《risk shocks in......》，挥汗撰写中；  </li>
   </ol>
   
-
-  
+  <h1>三、业界深度报告</h1>  
+  <ol>
+    <li> 《中国科技产业需要一场理性泡沫》，挥汗撰写中；  </li>
+  </ol>
