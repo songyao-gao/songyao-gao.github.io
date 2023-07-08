@@ -18,7 +18,7 @@ author_profile: true
 --->
 <ol>
 <h1>一、发表(publications)</h1>  
-  <li> 马振宇、<b>高崧耀</b>：《利率冲击还是风险冲击:谁驱动了一国宏观经济波动》，<b>《中国经济学》2023即将出版。</b><a href="https://mp.weixin.qq.com/s/HHy7tNPnxCezoAFKS65sOQ">[微信推文] </a>  </li>
+  <li> 马振宇、<b>高崧耀</b>：《利率冲击还是风险冲击:谁驱动了一国宏观经济波动》，<b>《中国经济学》2023年第2期。</b><a href="https://mp.weixin.qq.com/s/HHy7tNPnxCezoAFKS65sOQ">[微信推文] </a>  </li>
   <li> <b>Songyao Gao</b>, Baisheng Cui*(2023),<a href="https://doi.org/10.1142/S021759082350011X">Nonlinear and Time-Varying Heterogeneity of the Spatial Effect of G20 Countries’ Monetary Policies</a> , <b>The Singapore Economic Review.</b> </li>
   <li> <b>高崧耀（通讯作者）</b>、梅冬州、马振宇：<a href="http://ccj.pku.edu.cn/jjkx/CN/10.12088/PKU.jjkx.2023.01.03#1">《减税降费与宏观政策搭配》</a>，<b>《经济科学》</b>，2023年第1期。 <a href="https://mp.weixin.qq.com/s/KZbD0MSt0Kp54ChEHeGp-g">[微信推文] </a>，该文获中国第二届数量经济学与技术经济博士后论坛优秀论文、中央财经大学第十二届研究生论文二等奖。  </li>
   <li> <b>高崧耀</b>、崔百胜（通讯作者）：<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GJJR202207002&v=Mjg5MDFyQ1VSN2lmYitSdUZDbmtVcnpNSWlmQmZMRzRITlBNcUk5RlpvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUY=">《零利率下限约束下中国混合型货币政策规则宏观调控效应》</a> ，<b>《国际金融研究》</b>，2022年第7期。 <a href="https://mp.weixin.qq.com/s/IYz7zNg8FeYC7e7xCt8jag">[微信推文] </a>，该文被中国人民大学《国际货币评论》2022年第9期转发。</li>
@@ -35,7 +35,7 @@ author_profile: true
   <li> 高崧耀：《risk shocks in......》，挥汗撰写中；  </li>
   </ol>
   
-  <h1>三、业界深度报告</h1>  
+  <h1>三、深度报告</h1>  
   <ol>
     <li> 《中国科技产业需要一场理性泡沫》，挥汗撰写中；  </li>
   </ol>
