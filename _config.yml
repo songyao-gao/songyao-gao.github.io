@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Songyao-gao（高崧耀）"
-  avatar           : "profile.jpg"
+  name             : "Songyao-gao（"
+  avatar           : "profile_demo.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Beijing, China"
   employer         : "CUFE"
